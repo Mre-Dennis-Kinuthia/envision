@@ -186,7 +186,9 @@ Contributions to Envision are welcome! To contribute, please follow these steps:
 4. Test your changes.
 5. Submit a pull request.
 
-Please ensure that your code follows our coding guidelines and is well-documented.
+## Coding Guidelines
+
+Please follow our [Coding Guidelines](CODING_GUIDELINES.md) when contributing to this project. Consistency in coding style and practices is essential for maintaining a high-quality codebase.
 
 ## License
 
